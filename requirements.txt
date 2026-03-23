@@ -1,0 +1,6 @@
+langchain
+openai
+faiss-cpu
+chromadb
+pypdf
+sentence-transformers
