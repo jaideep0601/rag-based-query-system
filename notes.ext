@@ -1,0 +1,17 @@
+Current Features:
+Upload TXT, PDF, DOCX documents
+Ask questions from uploaded documents
+Get answers using Groq LLM
+Show source chunks with similarity score
+Clear database
+Show stats
+Works only from document content (doesn't make up answers)
+
+
+
+Missing Features:
+1. No Conversation Memory(Every question is independent. ChatGPT remembers the whole conversation.)
+2. No General Knowledge(Your model only answers from uploaded documents.)
+3. No Streaming(ChatGPT shows answers word by word. Your system shows everything at once.)
+4.No File Management(Can't see, delete or manage uploaded documents.)
+5. No Web Search(ChatGPT can search the internet. Your model can't.)
